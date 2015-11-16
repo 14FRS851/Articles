@@ -7,4 +7,4 @@ Some articles written as MD files for reminder use
 ------------------------------------------------------------------------------------------
 
 * [My first project](https://github.com/14FRS851/Articles/tree/master/Project1)
-
+* [My first project](/Project1)
