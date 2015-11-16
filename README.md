@@ -8,3 +8,4 @@ Some articles written as MD files for reminder use
 ------------------------------------------------------------------------------------------
 
 * [My first project](/Project1)
+* [My second project](/Project2)
