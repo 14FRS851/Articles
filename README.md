@@ -10,7 +10,7 @@ Some articles written as MD files for reminder use
 * [My first project](/Project1)
 * [My second project](/Project2)
 
-<img src='https://g.gravizo.com/svg?
+![Alt text](https://g.gravizo.com/svg?
 @startuml;
 
 actor User;
@@ -36,5 +36,4 @@ deactivate B;
 A --> User: Done;
 deactivate A;
 
-@enduml
-'>
+@enduml)
