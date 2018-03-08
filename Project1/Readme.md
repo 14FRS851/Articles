@@ -19,6 +19,6 @@ For adding a plantuml diagram automatically generated and manageble under versio
   
   ![PlantUML model](http://www.plantuml.com/plantuml/png/5Smz2W9130RGtbFe1JOCA8ZLsbYBdY1cmkx8_2p95xo-MhtkpGusHAkxG-bI8sjOtQ_0vXSYuy-q5Apn2bUJqQ4Taun6wNXxFC-dH5T3aQfEZHrgTBVnLa6YN7WnRjFspsVj-USN)
   
+  And bonus, we can hage the vector image too bu chnaging png in svg :
   
-  
-  
+  ![PlantUML model](http://www.plantuml.com/plantuml/svg/5Smz2W9130RGtbFe1JOCA8ZLsbYBdY1cmkx8_2p95xo-MhtkpGusHAkxG-bI8sjOtQ_0vXSYuy-q5Apn2bUJqQ4Taun6wNXxFC-dH5T3aQfEZHrgTBVnLa6YN7WnRjFspsVj-USN)
