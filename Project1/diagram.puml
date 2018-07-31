@@ -4,7 +4,7 @@ actor Bob
 
 ref over Alice, Bob : "init comm"
 
-Alice -> Bob : hello
+Alice -> Bob : Allo
 
 ref over Bob
   This can be on
