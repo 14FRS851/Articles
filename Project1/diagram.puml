@@ -2,7 +2,7 @@
 participant Alice
 actor Bob
 
-ref over Alice, Bob : init
+ref over Alice, Bob : init comm
 
 Alice -> Bob : hello
 
